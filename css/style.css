@@ -1,0 +1,41 @@
+body {
+    font-family: "Roboto", sans-serif;
+    min-width: 320px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#login-form,
+#signup-form {
+    width: 350px;
+}
+
+.tab-content form {
+    width: 250px;
+}
+
+.tab-content table img {
+    min-width: 100px;
+    max-width: 100px;
+}
+
+#product-container {
+    display: flex;
+    flex-direction: row;
+}
+
+#product-container form {
+    width: 250px;
+}
+
+.card,
+.card-img-top {
+    width: 250px;
+}
+
+#mainCarousel img {
+    max-height: 300px;
+}
